@@ -1,6 +1,5 @@
 <h2 align="center">
   Hotstar Clone<br/>
-  <a href="https://rf2rhk.csb.app/" target="_blank">Hotstarclone</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="demo.png" />
