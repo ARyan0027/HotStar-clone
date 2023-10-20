@@ -2,7 +2,6 @@
   Hotstar Clone<br/>
 </h2>
 <div align="center">
-  <img alt="Demo" src="demo.png" />
 </div>
 
 <br/>
